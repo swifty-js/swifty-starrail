@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(ls -la /Users/hangtiancheng/github/swifty-starrail && echo \"---\" && ls -la /Users/hangtiancheng/github/swifty-starrail-vue)",
-      "Read(//Users/hangtiancheng/github/swifty-starrail/**)"
-    ]
-  }
-}
